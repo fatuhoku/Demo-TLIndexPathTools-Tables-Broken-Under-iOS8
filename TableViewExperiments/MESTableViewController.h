@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MESTableViewController.h
 //  TableViewExperiments
 //
 //  Created by Hok Shun Poon on 02/09/2014.
@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TLTableViewController.h"
 
-@interface ViewController : UIViewController
-
-
+@interface MESTableViewController : TLTableViewController
 @end
 
